@@ -1,10 +1,10 @@
 # Velora Hotel Booking Analysis - Power BI
 
 <p align="center">
-    <img src="path-to-hotel-front-image.png" alt="Velora Hotel Front" width="600">
+    <img src="https://github.com/DarshanDev21/Velora-Hotel-Booking-Dashboard/blob/main/A%20luxurious%20and%20Elegant%20Front%20View%20The%20Velora%20Hotel.webp" alt="Velora Hotel Front" width="500">
 </p>
 
-This repository contains an interactive Power BI dashboard developed for analyzing hotel booking data from Velora Hotel. It provides actionable insights into booking trends, customer behavior, and revenue performance.
+
 
 ## Project Overview
 This project demonstrates the power of data analytics and visualization to enhance decision-making in the hospitality industry. The analysis was performed as part of a learning initiative to improve Power BI skills, focusing on real-world business scenarios.
@@ -61,13 +61,11 @@ The insights derived from this project will aid Velora Hotel in optimizing their
 
 ---
 
-## Data Model
-<p align="center">
-    <img src="path-to-data-model-image.png" alt="Data Model" width="600">
-</p>
+## Overview Of The DashBoard!
+
 
 <p align="center">
-    <img src="path-to-dashboard-image.png" alt="Velora Dashboard" width="600">
+    <img src="https://github.com/DarshanDev21/Velora-Hotel-Booking-Dashboard/blob/main/Velora%20Hotel%20Booking%20Dashboard.png" alt="Velora Dashboard" width="750">
 </p>
 
 ---
@@ -98,4 +96,4 @@ The insights derived from this project will aid Velora Hotel in optimizing their
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/velora-dashboard.git
+   git clone (https://github.com/DarshanDev21/Velora-Hotel-Booking-Dashboard.git)
